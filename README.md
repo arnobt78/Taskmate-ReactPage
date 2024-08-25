@@ -1,3 +1,6 @@
+
+<img width="1275" alt="Screenshot 2024-08-25 at 07 01 05" src="https://github.com/user-attachments/assets/37019d27-7829-45d6-8e41-7b4253bbb8c9">
+
 ## You can check this React Taskmate Webpage online directly by clicking this domain https://taskmate-arnob.netlify.app/
 
 ### Getting Started with Create React App
