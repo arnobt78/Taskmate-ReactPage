@@ -1,7 +1,33 @@
 
 <img width="1275" alt="Screenshot 2024-08-25 at 07 01 05" src="https://github.com/user-attachments/assets/37019d27-7829-45d6-8e41-7b4253bbb8c9">
 
-## You can check this React Taskmate Webpage online directly by clicking this domain https://taskmate-arnob.netlify.app/
+## Taskmate-ReactPage
+
+You can check this React Taskmate (Todo) Webpage online directly by clicking this domain https://taskmate-arnob.netlify.app/
+
+## To Install Dependences
+
+Before launching this web application, be sure to install all required dependencies, which are listed in the package.json file.
+
+## To Install NodeJS
+
+Make sure you have NodeJS installed in your machine first, The installation instructions are here: https://nodejs.org/en/
+
+## To Install React-Router 
+
+Open up your terminal and bootstrap a new React app by: npx create-react-app
+
+Then go to that project folder, and write this command via terminal from your project folder: npm install react-router-dom
+
+(To check for more details about React-Router, please visit: https://reactrouter.com/en/main )
+
+## To install TailwindCSS
+
+To install TailwindCSS, please check this instruction via their offical website: https://tailwindcss.com/docs/installation
+
+## To install Flowbite (TailwindCSS Framework)
+
+To install TailwindCSS, please check this instruction via their offical website: https://flowbite.com/docs/getting-started/quickstart/
 
 ### Getting Started with Create React App
 
