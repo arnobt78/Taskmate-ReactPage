@@ -9,6 +9,8 @@ You can check this React Taskmate (Todo) Webpage online directly by clicking thi
 
 Before launching this web application, be sure to install all required dependencies, which are listed in the package.json file.
 
+To install all dependences run this command from your project folder: `npm install`
+
 ## To Install NodeJS
 
 Make sure you have NodeJS installed in your machine first, The installation instructions are here: https://nodejs.org/en/
