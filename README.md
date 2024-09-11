@@ -3,7 +3,9 @@
 
 ## Taskmate-ReactPage
 
-You can check this React Taskmate (Todo) Webpage online directly by clicking this domain https://taskmate-arnob.netlify.app/
+Taskmate is a simple React project where you can add a todo list, edit it, delete it, and also change the theme of the page using a local database.
+
+**Note: To check it live online:** https://taskmate-arnob.netlify.app/
 
 ## To Install Dependences
 
